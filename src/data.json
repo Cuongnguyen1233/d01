@@ -1,0 +1,38 @@
+[
+    {
+        "id": "S01",
+        "name": "Nguyen Dang Trieu",
+        "yob": 2000,
+        "email": "trieu@fpt.edu.vn"
+    },
+    {
+        "id": "S02",
+        "name": "Tran Phi Long",
+        "yob": 2002,
+        "email": "philong@fpt.edu.vn"
+    },
+    {
+        "id": "S03",
+        "name": "Duong Hoang",
+        "yob": 2004,
+        "email": "hoang@fpt.edu.vn"
+    },
+    {
+        "id": "S04",
+        "name": "Nguyen Tien Phat",
+        "yob": 2000,
+        "email": "Phat@fpt.edu.vn"
+    },
+    {
+        "id": "S05",
+        "name": "Nguyen Dang Trieu",
+        "yob": 2000,
+        "email": "trieu@fpt.edu.vn"
+    },
+    {
+        "id": "S06",
+        "name": "Phan Tran Yen Thanh",
+        "yob": 2003,
+        "email": "thanh@fpt.edu.vn"
+    }
+]
